@@ -1,0 +1,31 @@
+.fun{
+    font-size: 30px;
+
+}
+h1{
+    text-decoration: underline;
+}
+hr{
+    width: 1000px;
+ margin-left: 0;
+ line-height: 1px;
+}
+.blue{
+    color: blue;
+}
+.orangelink a{
+    color: orange;
+}
+.redlink a{
+color: red;
+}
+.bklink a{
+    background-color: yellow;
+    color: black;
+}
+.boldli li:first-child{
+    font-weight: bold;
+}
+.nodot li{
+    list-style: none;
+}

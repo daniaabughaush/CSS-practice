@@ -1,0 +1,45 @@
+.flow{
+    display: flex;
+    margin-bottom:15px;
+    overflow: hidden;
+   }
+.article{
+    /* width: 300px; */
+    height: 170px;
+    flex-basis: 300px;
+    margin: 10px;
+    /* margin-bottom: 30px; */
+    /* background-color: gray; */
+   }
+   p{
+    background-color: rgb(227, 221, 221);
+   }
+main{
+    width: 1090px;
+    height: 700px;
+    background-color: rgb(255, 255, 231);
+    border-right: solid;
+}
+.scroll{
+    overflow: scroll;
+    overflow-x: hidden;
+    border-bottom: solid;
+    border-top: solid;
+    margin-top: 0;
+    font-weight: bold;
+    height: 100px;
+}
+.p2{
+    background-color: transparent;
+}
+h2{
+    margin-left: 25px;
+    margin-bottom: 0px;
+}
+.last{
+    margin-top: 0;
+}
+
+
+
+
