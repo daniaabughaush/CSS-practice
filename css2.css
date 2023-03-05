@@ -1,4 +1,22 @@
 div{
+width:90px;
+height: 90px;
+background-color: yellow;
+display:inline-block
+}
+hr{
+    width: 1000px;
+    margin-left: 0;
+}
+div:nth-child(even){
+    background-color: green;
+position: relative;
+    top:20px;
+
+}
+
+/* exercies 2 */
+section{
     width:90px;
     height: 30px;
     background-color: red;
@@ -13,7 +31,7 @@ div{
         width: 1000px;
         margin-left: 0;
     }
-    div:nth-child(odd){
+    section:nth-child(odd){
         background-color: green;
    display: none;
    visibility: hidden;
