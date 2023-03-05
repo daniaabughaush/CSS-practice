@@ -16,9 +16,12 @@ hr{
 .orangelink a{
     color: orange;
 }
-.redlink a{
+li a{
 color: red;
 }
+/* .redlink a{
+    color:red;
+} */
 .bklink a{
     background-color: yellow;
     color: black;
